@@ -1,4 +1,4 @@
-#TPPE29-Financial-Markets-and-Instruments
+# TPPE29-Financial-Markets-and-Instruments
 TPPE29-Financial-Markets-and-Instruments This repository is for a project in the course financial markets and instruments, 
 taught at Linkoping University. Attended Fall 2022.
 
